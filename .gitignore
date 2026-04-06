@@ -1,0 +1,16 @@
+# 排除資料目錄
+/data/
+
+# 排除作業說明檔
+Homework-Week6.md
+
+# 排除 Python 快取檔
+__pycache__/
+*.pyc
+
+# 排除 Jupyter 快取
+.ipynb_checkpoints/
+
+# 排除臨時檔
+*.tmp
+*.log
